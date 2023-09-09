@@ -6,6 +6,7 @@
  *  }while(condition);
  * 
  */
+//(do...while loop) The condition is checked later
 
 
 package ChotoSami;
