@@ -3,9 +3,6 @@
   Code to execute
 }
 */
-package ChotoSami;
-
-public class picchiSami {
 
 	public static void main(String[] args) 
 {
@@ -14,4 +11,4 @@ public class picchiSami {
 			
 }
 
-}
+
