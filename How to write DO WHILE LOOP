@@ -1,0 +1,25 @@
+/*
+ * initialization
+ *  do{
+ *  code to execute
+ *  increment/decrement
+ *  }while(condition);
+ * 
+ */
+
+
+package ChotoSami;
+public class picchiSami 
+{
+	public static void main(String[] args)        
+	{
+		int x=1;
+		do 
+		{
+		System.out.println(x);
+		x++;
+		}
+		while(x<=10);
+	}
+}
+	
