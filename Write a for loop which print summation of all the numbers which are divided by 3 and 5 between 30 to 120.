@@ -1,7 +1,4 @@
 //Write a for loop which print summation of all the numbers which are divided by 3 and 5 between 30 to 120.
-package ChotoSami;
-
-public class picchiSami {
 
 	public static void main(String[] args) 
 {
@@ -19,5 +16,5 @@ public class picchiSami {
 	System.out.println("\nsummation of all the numbers: "+ x);
 }
 
-}
+
  
