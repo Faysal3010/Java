@@ -8,11 +8,6 @@ increment/decrement;
 
 
 
-
-package ChotoSami;
-
-public class picchiSami {
-
 	public static void main(String[] args) 
 {
 		int x=1;
@@ -22,4 +17,4 @@ public class picchiSami {
 			
 }
 
-}
+
