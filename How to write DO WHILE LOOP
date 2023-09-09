@@ -10,9 +10,6 @@
 //(do...while)অবস্থা পরে চেক করা হয়
 
 
-package ChotoSami;
-public class picchiSami 
-{
 	public static void main(String[] args)        
 	{
 		int x=1;
@@ -23,5 +20,5 @@ public class picchiSami
 		}
 		while(x<=10);
 	}
-}
+
 	
