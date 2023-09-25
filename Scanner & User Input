@@ -4,9 +4,10 @@ import java.util.*; // Scanner or *
 public static void main(String[] args){
 Scanner sc=new Scanner(System.in);
 
-int x;
+int x;  // int x= sc.nextInt();
+        // String x=sc.next();
 System.out.println("Enter the value of x: ");
-x=sc.nextInt();
+x=sc.nextInt(); 
 System.out.println("x= "+x);
 sc.close();
 }
